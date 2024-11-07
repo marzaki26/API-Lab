@@ -1,4 +1,4 @@
-Feature: View Shopping Cart Items
+Feature: View Shopping Cart Item
 
 Background:
 Given url baseUrl
